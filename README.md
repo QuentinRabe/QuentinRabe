@@ -19,10 +19,4 @@
     <img src="https://skillicons.dev/icons?i=ae,ps,ai,xd,pr,figma," />
   </a>
 </p>
-
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuentinRabe&theme=synthwave&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinRabe&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
